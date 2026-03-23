@@ -71,6 +71,7 @@ RESSOURCES UTILISÉES (strings.xml)
 ![1](https://github.com/user-attachments/assets/8d976160-8872-4f3c-bc76-3c80533c6b09)
 
 Si on ne renseigne pas de surface ou nombre de pieces , un toast s'affichera.
+
 ![2](https://github.com/user-attachments/assets/09c17f5b-b059-489d-b66b-aaef9a592267)
 
 ![3](https://github.com/user-attachments/assets/3f5881fb-3b29-4559-84e4-6b19fe88d3a3)
