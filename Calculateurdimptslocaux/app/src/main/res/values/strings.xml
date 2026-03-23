@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculateur d’impôts locaux</string>
+    <string name="titre">Calcul des impots</string>
+    <string name="name">Nom</string>
+    <string name="add">Adresse</string>
+    <string name="sur">Surface en m²</string>
+    <string name="nbr">Nombre de pieces</string>
+</resources>
